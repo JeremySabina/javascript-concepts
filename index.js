@@ -56,8 +56,7 @@ fun(); // <--- this will have arguments
 
 // processUserInput(greeting);
 
-// document.addEventListener("click", (params) => {});
-
+// 
 let user = {
   username: "Roadside Coder",
   rc1: () => {
